@@ -14,7 +14,7 @@ If your assumption is that only one word of the mnemonic is written down incorre
 - Install Python. This project was tested on Python 3.9
 - Install the required packages. This can be done using: `pip install -r requirements.txt`
 - Either:
-  - Copy the env.template file as `.env`, and change the values
+  - Copy the template.env file as `.env`, and change the values
   - Run the program without a .env file, and input the values at the prompt.
 
 To run the program: `python3 main.py`
